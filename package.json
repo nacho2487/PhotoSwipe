@@ -1,6 +1,6 @@
 {
   "name": "frontend-photoswipe",
-  "version": "4.1.4-beta.2",
+  "version": "4.1.4-beta.3",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -19,7 +19,8 @@
     "grunt-contrib-watch": "~1.1.0",
     "grunt-jekyll": "~1.0.0",
     "grunt-sass": "^3.0.2",
-    "grunt-svgmin": "^5.0.0"
+    "grunt-svgmin": "^5.0.0",
+    "node-sass": "^5.0.0"
   },
   "repository": {
     "type": "git",
